@@ -1,3 +1,1 @@
-console.log("hello word");
-
-console.log('ooooookkkkk');
+console.log("");
